@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Furkan Mulayim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**furkanmulayim/furkanmulayim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>A developer in love with android</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm developing projects related to **Kotlin**
+- 💻 I love using Software as a solution for every `Problem`
+- ☕ How to reach me **furkanmulayim80@gmail.com**
+
+* Kotlin
+* Java
+* C#
+* Git, Github, Bitbucket
+
+<details>
+	<summary>:bulb: Github Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=furkanmulayim&show_icons=true&theme=radical">
+</details>
+
+
+<details>
+	<summary>:bulb: Most Used Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmulayim&layout=compact&show_icons=true&theme=radical">
+</details>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/furkanmulayim"/></a>
+</p>
