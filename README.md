@@ -12,10 +12,8 @@
 * C#
 * Git, Github, Bitbucket
 
-	<summary>:bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=furkanmulayim&show_icons=true&theme=radical">
 
-	<summary>:bulb: Most Used Languages </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmulayim&layout=compact&show_icons=true&theme=radical">
 
 
