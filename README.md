@@ -10,7 +10,7 @@
 * Kotlin
 * Java
 * C#
-* Git, Github, Bitbucket
+* Git, Github, Bitbucket, Trello
 
 <img src="https://github-readme-stats.vercel.app/api?username=furkanmulayim&show_icons=true&theme=radical">
 
