@@ -9,8 +9,9 @@
 
 * Kotlin
 * Java
+* Flutter
 * C#
-* Git, Github, Bitbucket, Source Tree, Trello
+* Git, Github, Bitbucket, Source Tree, Trello, Figma, Adobe PS
 
 <img src="https://github-readme-stats.vercel.app/api?username=furkanmulayim&show_icons=true&theme=radical">
 
