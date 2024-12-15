@@ -3,7 +3,7 @@
 <h3>A developer in love with android</h3>
 
 
-- 🌱 I'm developing projects related to **Kotlin**
+- 🌱 I'm developing projects related to **Android**
 - 💻 I love using Software as a solution for every `Problem`
 - ☕ How to reach me **furkanmulayim80@gmail.com**
 
